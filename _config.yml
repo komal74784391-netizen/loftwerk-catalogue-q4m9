@@ -1,0 +1,9 @@
+title: Loftwerk Instruments
+description: Open-hardware test and measurement instruments
+baseurl: ""
+url: ""
+markdown: kramdown
+collections:
+  instruments:
+    output: true
+permalink: /instruments/:slug/

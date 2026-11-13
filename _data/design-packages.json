@@ -1,0 +1,18 @@
+{
+  "qp-2": [
+    "lw-qprobe-q4m9",
+    "lw-qprobe-bench-notes-q4m9"
+  ],
+  "ml-1": [
+    "lw-mlna-q4m9",
+    "lw-mlna-spice-q4m9"
+  ],
+  "tr-4": [
+    "lw-trc-q4m9"
+  ],
+  "pa-6": [
+    "lw-pafe-q4m9"
+  ],
+  "ep-9": [],
+  "bv-1": []
+}
