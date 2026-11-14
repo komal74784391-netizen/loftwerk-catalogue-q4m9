@@ -4,6 +4,7 @@ slug: "bv-1"
 series: "power-systems"
 board_revision: "BV-1.0"
 updated: "2026-05-22"
+design_package_repo: "https://github.com/adafruit/Adafruit_INA219"
 summary: "Four-channel bus voltage and current monitor for rack telemetry."
 ---
 
