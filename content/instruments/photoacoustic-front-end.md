@@ -8,7 +8,6 @@ origin_design: "Acoustic Excitation Front-End"
 origin_ref: "OB-2023-009"
 origin_keyword: "photoacoustic"
 summary: "Transimpedance front-end for photoacoustic gas-cell measurements."
-upstream_project_repo: "https://github.com/komal74784391-netizen/axfe-ref-q4m9"
 ---
 
 The PA-6 brings the Acoustic Excitation Front-End design into our gas-cell
