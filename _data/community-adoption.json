@@ -2,9 +2,6 @@
   "compiled": "2026-09-30",
   "collection": "keyword sweep of public repositories; quarterly install counts from the community survey",
   "records": [
-    {"repo": "komal74784391-netizen/trampkit-q4m9", "keyword": "thermal ramp", "installs_q3": 1482},
-    {"repo": "komal74784391-netizen/rampsuite-q4m9", "keyword": "thermal ramp", "installs_q3": 983},
-    {"repo": "komal74784391-netizen/ramp-refdesign-q4m9", "keyword": "thermal ramp", "installs_q3": 74},
     {"repo": "komal74784391-netizen/photoacoustic-max-q4m9", "keyword": "photoacoustic", "installs_q3": 1204},
     {"repo": "komal74784391-netizen/axfe-ng-q4m9", "keyword": "photoacoustic", "installs_q3": 288},
     {"repo": "komal74784391-netizen/axfe-ref-q4m9", "keyword": "photoacoustic", "installs_q3": 58}
