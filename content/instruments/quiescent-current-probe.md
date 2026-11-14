@@ -5,6 +5,7 @@ series: "bench-instruments"
 board_revision: "QP-2.3"
 updated: "2026-08-19"
 summary: "Sleep-current measurement front-end with 100 nA resolution for battery-powered assemblies."
+design_package_repo: "https://github.com/komal74784391-netizen/lw-qprobe-q4m9"
 ---
 
 The QP-2 measures quiescent current on battery-powered assemblies from 100 nA to
